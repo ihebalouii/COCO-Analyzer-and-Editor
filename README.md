@@ -42,8 +42,7 @@ These tools are particularly useful for preparing and managing datasets for comp
 │   │   ├── annotations.json
 │   │   ├── images/
 │
-├── README.md                 # Project documentation
-└── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
 ```
 
 ---
@@ -61,7 +60,7 @@ These tools are particularly useful for preparing and managing datasets for comp
 ### Installing Dependencies
 Install the required dependencies using:
 ```bash
-pip install -r requirements.txt
+pip install opencv-python matplotlib
 ```
 
 ---
